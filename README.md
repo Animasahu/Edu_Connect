@@ -1,8 +1,7 @@
 # Edu_Connect
 Edu Connect is all-in-one platform for e-learning. It is an easy-to-use and secure tool which helps teachers and students to connect and enrich the learning experiences together.
 
-Website Link - EduConnect
-
+Website Link - <a href="https://educonnect-333219.web.app"> EduConnect </a> <br>
 The website is hosted on a server that is owned by my college, and the frontend is hosted on Firebase.
 
 How to get started with the website?
@@ -41,7 +40,7 @@ Now open a new terminal (other than frontend) and chage directory to 'backend'.
 Do npm install
 Run nodemon index.js
 
-![image](https://user-images.githubusercontent.com/70600260/187218365-239a4001-649a-48c5-a42c-3cbc8ebc97d8.png)
+![image](https://user-images.githubusercontent.com/70600260/187218365-239a4001-649a-48c5-a42c-3cbc8ebc97d8.png) <br>
 You should be now able to run the application on localhost.
 
 Technology Stack
